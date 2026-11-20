@@ -44,8 +44,8 @@ con un servicio PostgreSQL y las variables de entorno configuradas en el
 panel de la plataforma (`SPRING_PROFILES_ACTIVE=prod`, `DATASOURCE_URL`,
 `DATASOURCE_USER`, `DATASOURCE_PASSWORD`):
 
-- URL de la aplicación: https://TU-DOMINIO.up.railway.app/api/productos
-- Estado de salud: https://TU-DOMINIO.up.railway.app/actuator/health
+- URL de la aplicación: https://alferez-post1-u12-production.up.railway.app/actuator/health/api/productos
+- Estado de salud: https://alferez-post1-u12-production.up.railway.app/actuator/health
 
 ## Decisiones de diseño
 
